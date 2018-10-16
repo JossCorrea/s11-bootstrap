@@ -1,0 +1,39 @@
+.nav-primary .navbar-collapse{
+    justify-content: flex-end;
+}
+
+h1{
+    margin:25px 0;
+}
+
+
+.carousel-banner{
+    margin-top: 56px;
+    height: 80vh;
+}
+
+.carousel-banner img{
+    height: 80vh;
+    object-fit: cover;
+}
+
+.carousel-banner h5{
+    font-size: 100px;
+    text-shadow: 2px 2px 0 black;
+}
+
+.carousel-banner p{
+    font-size: 40px;
+    text-shadow: 2px 2px 0 black;
+}
+
+.row-2 img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.modern-business img{
+    height: 450px;
+    width: 700px;
+    object-fit: cover;
+}
